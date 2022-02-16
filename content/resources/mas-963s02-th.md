@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/1f88400e707c2363db965b86456bcfcb_mas-963s02-th.jpg
+file: /media/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/1f88400e707c2363db965b86456bcfcb_mas-963s02-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Defining a person through objects, in this case books. Image inspired by
@@ -9,6 +9,8 @@ image_metadata:
     McCluskey. Used with permission.)
   credit: ''
   image-alt: A series of overlapping book titles.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: mas-963s02-th.jpg
 uid: 1f88400e-707c-2363-db96-5b86456bcfcb
