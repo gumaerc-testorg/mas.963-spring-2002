@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: f5bb0b7c-33fd-2d8e-3f28-bc158a3d2eb7
 resourcetype: Document
 title: danah1.pdf
 uid: 7e26a7c3-739b-768a-4cb3-d763bffbd336

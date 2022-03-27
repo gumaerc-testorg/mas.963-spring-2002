@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6d5101e-e4fa-81d7-e1e8-125b1b85589c
 resourcetype: Document
 title: HICSS2002.pdf
 uid: be19075f-979f-654f-ae54-d014832306f2

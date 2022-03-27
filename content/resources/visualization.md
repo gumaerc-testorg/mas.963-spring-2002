@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6d5101e-e4fa-81d7-e1e8-125b1b85589c
 resourcetype: Document
 title: visualization.pdf
 uid: 4eced702-ee90-7afc-9604-4e672d433cbc

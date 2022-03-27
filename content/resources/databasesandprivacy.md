@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6d5101e-e4fa-81d7-e1e8-125b1b85589c
 resourcetype: Document
 title: databasesAndPrivacy.pdf
 uid: 4f99c6d2-cec1-7fb8-1b44-5f494a2289ec

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6d5101e-e4fa-81d7-e1e8-125b1b85589c
 resourcetype: Document
 title: fashion.pdf
 uid: d0152956-7b23-6a26-4156-e086bcbcaa0a
