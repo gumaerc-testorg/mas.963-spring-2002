@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -49,7 +50,7 @@ Introduction
 Thinking about Identity: Categorization, Prototypes, Stereotypes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/categorization))
+({{% resource_link 0b5ab762-1c7b-9f70-0b34-fce994f11b1e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -72,7 +73,7 @@ Hirschfeld, Lawrence. _Race in the Making._ Chap. 0 and 1.
 Cultural Identity Part 1: Language, Dialects and Email
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/language))
+({{% resource_link f06d1ee8-61a7-6979-808e-63f5392cca27 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -95,7 +96,7 @@ Cherny, Lynn. _Conversation and Community_. Skim Chap. 4.
 Cultural Identity Part 2: Fashions in Clothing, Music and Links
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/fashion))
+({{% resource_link d0152956-7b23-6a26-4156-e086bcbcaa0a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -118,7 +119,7 @@ Davis, Fred. _Fashion. Culture and Identity._ Chap. 1.
 The Face
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/face))
+({{% resource_link 1008145e-c60d-7ceb-e99f-57bbbe627428 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -171,7 +172,7 @@ The not quite Human Other: Robots, Agents and Augmented Humans
 Databanks and Privacy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/databasesandprivacy))
+({{% resource_link 4f99c6d2-cec1-7fb8-1b44-5f494a2289ec "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -192,7 +193,7 @@ Clarke, Roger. “[Introduction to Dataveillance and Information Privacy](http:/
 Visualizations: Depicting the Abstract and Mediated Self
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/visualization))
+({{% resource_link 4eced702-ee90-7afc-9604-4e672d433cbc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -230,7 +231,7 @@ Measuring Identity:Tests and Sensors
 Portraying Identity: Portraiture in the 21st Century
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/portrait))
+({{% resource_link a6b94c37-6869-f0b1-714e-6a2bd6bc475f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
