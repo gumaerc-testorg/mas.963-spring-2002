@@ -5,6 +5,7 @@ file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: danah7.pdf
 uid: 8a46b1fe-4992-c554-b9e9-fe9e1d14d16a
 ---
 Assignment 7: databases and privacy
-

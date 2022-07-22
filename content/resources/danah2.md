@@ -5,6 +5,7 @@ file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: danah2.pdf
 uid: 6640765c-4948-9b31-0ee2-107f252f798a
 ---
 Assignment 2: Cultural Identity. Part 1: language, dialects and email
-

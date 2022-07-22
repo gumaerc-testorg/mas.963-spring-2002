@@ -5,6 +5,7 @@ file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: portrait.pdf
 uid: a6b94c37-6869-f0b1-714e-6a2bd6bc475f
 ---
 Lecture #11 :: portraying identity: portraiture in the 21st century
-

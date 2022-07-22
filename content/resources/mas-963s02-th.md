@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: A series of overlapping book titles.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-963s02-th.jpg
 uid: 1f88400e-707c-2363-db96-5b86456bcfcb
 ---
 New image Upload
-

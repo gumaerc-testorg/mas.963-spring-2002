@@ -5,6 +5,7 @@ file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: danah1.pdf
 uid: 7e26a7c3-739b-768a-4cb3-d763bffbd336
 ---
 Assignment 1: thinking about identity: categorization, prototypes, stereotypes
-

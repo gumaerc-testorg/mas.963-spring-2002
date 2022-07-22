@@ -6,6 +6,7 @@ file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: danah3.pdf
 uid: dcc448b2-fc72-75c7-8523-e25c7ec524cc
 ---
 Assignment 3: cultural identity part 2: fashions in clothing, music and links
-

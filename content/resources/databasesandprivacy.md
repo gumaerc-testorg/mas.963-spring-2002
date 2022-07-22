@@ -5,6 +5,7 @@ file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: databasesAndPrivacy.pdf
 uid: 4f99c6d2-cec1-7fb8-1b44-5f494a2289ec
 ---
 Lecture #8: Databases and privacy
-
