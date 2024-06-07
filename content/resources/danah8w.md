@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment 8: textual portrait'
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/30effd72987d1add425f10d42b54a509_danah8W.pdf
+file_size: 49415
 file_type: application/pdf
 learning_resource_types:
 - Projects
