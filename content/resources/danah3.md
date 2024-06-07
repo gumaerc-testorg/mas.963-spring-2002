@@ -3,6 +3,7 @@ content_type: resource
 description: 'Assignment 3: cultural identity part 2: fashions in clothing, music
   and links'
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/dcc448b2fc7275c78523e25c7ec524cc_danah3.pdf
+file_size: 44108
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/1f88400e707c2363db965b86456bcfcb_mas-963s02-th.jpg
+file_size: 8071
 file_type: image/jpeg
 image_metadata:
   caption: Defining a person through objects, in this case books. Image inspired by
