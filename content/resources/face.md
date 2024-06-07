@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture #5: the face'
 file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/1008145ec60d7cebe99f57bbbe627428_face.pdf
+file_size: 53230
 file_type: application/pdf
 learning_resource_types:
 - Assignments
