@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/be19075f979f654fae54d014832306f2_HICSS2002.pdf
+file: /ol-ocw-studio-app/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/be19075f979f654fae54d014832306f2_HICSS2002.pdf
 file_size: 302415
 file_type: application/pdf
 learning_resource_types:
