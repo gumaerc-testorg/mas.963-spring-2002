@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 7: databases and privacy'
-file: /ol-ocw-studio-app/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/8a46b1fe4992c554b9e9fe9e1d14d16a_danah7.pdf
+file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/8a46b1fe4992c554b9e9fe9e1d14d16a_danah7.pdf
 file_size: 49700
 file_type: application/pdf
 learning_resource_types:
