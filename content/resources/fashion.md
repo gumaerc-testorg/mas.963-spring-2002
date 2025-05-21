@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'cultural identity part 2: fashions in clothing, music and links'
-file: /ol-ocw-studio-app/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/d01529567b236a264156e086bcbcaa0a_fashion.pdf
+file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/d01529567b236a264156e086bcbcaa0a_fashion.pdf
 file_size: 43214
 file_type: application/pdf
 learning_resource_types:

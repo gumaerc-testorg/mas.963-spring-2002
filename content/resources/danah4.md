@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 4: the face'
-file: /ol-ocw-studio-app/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/bd2075230c24178d87773dcc84a5019f_danah4.pdf
+file: /courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/bd2075230c24178d87773dcc84a5019f_danah4.pdf
 file_size: 16063
 file_type: application/pdf
 learning_resource_types:
